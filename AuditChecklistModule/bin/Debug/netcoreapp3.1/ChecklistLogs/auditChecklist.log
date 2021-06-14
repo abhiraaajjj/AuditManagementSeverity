@@ -1,0 +1,191 @@
+INFO  11:24:16 Application started. Press Ctrl+C to shut down.
+INFO  11:24:16 Application started. Press Ctrl+C to shut down.
+INFO  11:24:16 Hosting environment: Development
+INFO  11:24:16 Hosting environment: Development
+INFO  11:24:16 Content root path: C:\Users\Abhi\source\repos\AuditChecklistModule
+INFO  11:24:16 Content root path: C:\Users\Abhi\source\repos\AuditChecklistModule
+INFO  11:24:24 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  11:24:24  Http GET request calledChecklistProvider
+INFO  11:24:24 Log from ChecklistRepo
+INFO  04:34:54 Application started. Press Ctrl+C to shut down.
+INFO  04:34:54 Application started. Press Ctrl+C to shut down.
+INFO  04:34:54 Hosting environment: Development
+INFO  04:34:54 Hosting environment: Development
+INFO  04:34:54 Content root path: C:\Users\Abhi\source\repos\AuditChecklistModule
+INFO  04:34:54 Content root path: C:\Users\Abhi\source\repos\AuditChecklistModule
+INFO  04:41:06 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  04:41:06  Http GET request calledChecklistProvider
+INFO  04:41:06 Log from ChecklistRepo
+INFO  04:44:16 Application started. Press Ctrl+C to shut down.
+INFO  04:44:16 Application started. Press Ctrl+C to shut down.
+INFO  04:44:16 Hosting environment: Development
+INFO  04:44:16 Hosting environment: Development
+INFO  04:44:16 Content root path: C:\Users\Abhi\source\repos\AuditChecklistModule
+INFO  04:44:16 Content root path: C:\Users\Abhi\source\repos\AuditChecklistModule
+INFO  04:44:16 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  04:44:53 Application started. Press Ctrl+C to shut down.
+INFO  04:44:53 Application started. Press Ctrl+C to shut down.
+INFO  04:44:53 Hosting environment: Development
+INFO  04:44:53 Hosting environment: Development
+INFO  04:44:53 Content root path: C:\Users\Abhi\source\repos\AuditChecklistModule
+INFO  04:44:53 Content root path: C:\Users\Abhi\source\repos\AuditChecklistModule
+INFO  04:44:53 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  05:09:44 Application started. Press Ctrl+C to shut down.
+INFO  05:09:44 Application started. Press Ctrl+C to shut down.
+INFO  05:09:44 Hosting environment: Development
+INFO  05:09:44 Hosting environment: Development
+INFO  05:09:44 Content root path: C:\Users\Abhi\source\repos\AuditChecklistModule
+INFO  05:09:44 Content root path: C:\Users\Abhi\source\repos\AuditChecklistModule
+INFO  05:12:30 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  05:12:30  Http GET request calledChecklistProvider
+INFO  05:12:30 Log from ChecklistRepo
+INFO  05:13:59 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  05:13:59  Http GET request calledChecklistProvider
+INFO  05:13:59 Log from ChecklistRepo
+INFO  05:15:36 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  05:15:36  Http GET request calledChecklistProvider
+INFO  05:15:36 Log from ChecklistRepo
+INFO  05:15:52 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  05:15:52  Http GET request calledChecklistProvider
+INFO  05:15:52 Log from ChecklistRepo
+INFO  05:17:14 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  05:17:14  Http GET request calledChecklistProvider
+INFO  05:17:14 Log from ChecklistRepo
+INFO  05:40:23 Application started. Press Ctrl+C to shut down.
+INFO  05:40:23 Application started. Press Ctrl+C to shut down.
+INFO  05:40:23 Hosting environment: Development
+INFO  05:40:23 Hosting environment: Development
+INFO  05:40:23 Content root path: C:\Users\Abhi\source\repos\AuditChecklistModule
+INFO  05:40:23 Content root path: C:\Users\Abhi\source\repos\AuditChecklistModule
+INFO  05:41:51 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  05:41:51  Http GET request calledChecklistProvider
+INFO  05:41:51 Log from ChecklistRepo
+INFO  05:42:34 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  05:42:34  Http GET request calledChecklistProvider
+INFO  05:42:34 Log from ChecklistRepo
+INFO  05:43:06 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  05:43:06  Http GET request calledChecklistProvider
+INFO  05:43:06 Log from ChecklistRepo
+INFO  05:43:44 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  05:43:44  Http GET request calledChecklistProvider
+INFO  05:43:44 Log from ChecklistRepo
+INFO  05:44:37 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  05:44:37  Http GET request calledChecklistProvider
+INFO  05:44:37 Log from ChecklistRepo
+INFO  05:54:58 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  05:54:58  Http GET request calledChecklistProvider
+INFO  05:54:58 Log from ChecklistRepo
+INFO  05:55:32 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  05:55:32  Http GET request calledChecklistProvider
+INFO  05:55:32 Log from ChecklistRepo
+INFO  05:56:01 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  05:56:01  Http GET request calledChecklistProvider
+INFO  05:56:01 Log from ChecklistRepo
+INFO  05:56:58 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  05:56:58  Http GET request calledChecklistProvider
+INFO  05:56:58 Log from ChecklistRepo
+INFO  05:57:44 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  05:57:44  Http GET request calledChecklistProvider
+INFO  05:57:44 Log from ChecklistRepo
+INFO  05:58:20 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  05:58:20  Http GET request calledChecklistProvider
+INFO  05:58:20 Log from ChecklistRepo
+INFO  05:59:07 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  05:59:07  Http GET request calledChecklistProvider
+INFO  05:59:07 Log from ChecklistRepo
+INFO  05:59:45 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  05:59:45  Http GET request calledChecklistProvider
+INFO  05:59:45 Log from ChecklistRepo
+INFO  06:00:23 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  06:00:23  Http GET request calledChecklistProvider
+INFO  06:00:23 Log from ChecklistRepo
+INFO  06:00:49 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  06:00:49  Http GET request calledChecklistProvider
+INFO  06:00:49 Log from ChecklistRepo
+INFO  06:01:21 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  06:01:21  Http GET request calledChecklistProvider
+INFO  06:01:21 Log from ChecklistRepo
+INFO  06:06:09 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  06:06:09  Http GET request calledChecklistProvider
+INFO  06:06:09 Log from ChecklistRepo
+INFO  06:07:33 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  06:07:33  Http GET request calledChecklistProvider
+INFO  06:07:33 Log from ChecklistRepo
+INFO  06:08:06 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  06:08:06  Http GET request calledChecklistProvider
+INFO  06:08:06 Log from ChecklistRepo
+INFO  06:08:22 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  06:08:22  Http GET request calledChecklistProvider
+INFO  06:08:22 Log from ChecklistRepo
+INFO  06:09:09 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  06:09:09  Http GET request calledChecklistProvider
+INFO  06:09:09 Log from ChecklistRepo
+INFO  06:27:15 Application started. Press Ctrl+C to shut down.
+INFO  06:27:15 Application started. Press Ctrl+C to shut down.
+INFO  06:27:15 Hosting environment: Development
+INFO  06:27:15 Hosting environment: Development
+INFO  06:27:15 Content root path: C:\Users\Abhi\source\repos\AuditChecklistModule
+INFO  06:27:15 Content root path: C:\Users\Abhi\source\repos\AuditChecklistModule
+INFO  06:28:14 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  06:28:14  Http GET request calledChecklistProvider
+INFO  06:28:14 Log from ChecklistRepo
+INFO  06:37:15 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  06:37:15  Http GET request calledChecklistProvider
+INFO  06:37:15 Log from ChecklistRepo
+INFO  06:39:50 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  06:39:50  Http GET request calledChecklistProvider
+INFO  06:39:50 Log from ChecklistRepo
+INFO  06:40:56 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  06:40:56  Http GET request calledChecklistProvider
+INFO  06:40:56 Log from ChecklistRepo
+INFO  06:49:01 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  06:49:01  Http GET request calledChecklistProvider
+INFO  06:49:01 Log from ChecklistRepo
+INFO  06:53:48 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  06:53:48  Http GET request calledChecklistProvider
+INFO  06:53:48 Log from ChecklistRepo
+INFO  06:59:48 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  06:59:48  Http GET request calledChecklistProvider
+INFO  06:59:48 Log from ChecklistRepo
+INFO  10:47:11 Application started. Press Ctrl+C to shut down.
+INFO  10:47:11 Application started. Press Ctrl+C to shut down.
+INFO  10:47:11 Hosting environment: Development
+INFO  10:47:11 Hosting environment: Development
+INFO  10:47:11 Content root path: C:\Users\Abhi\source\repos\AuditChecklistModule
+INFO  10:47:11 Content root path: C:\Users\Abhi\source\repos\AuditChecklistModule
+INFO  10:50:18 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  10:50:18  Http GET request calledChecklistProvider
+INFO  10:50:18 Log from ChecklistRepo
+INFO  10:51:11 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  10:51:11  Http GET request calledChecklistProvider
+INFO  10:51:11 Log from ChecklistRepo
+INFO  08:48:59 Application started. Press Ctrl+C to shut down.
+INFO  08:48:59 Application started. Press Ctrl+C to shut down.
+INFO  08:48:59 Hosting environment: Development
+INFO  08:48:59 Hosting environment: Development
+INFO  08:48:59 Content root path: C:\Users\Abhi\source\repos\Audit Management System - POD1\AuditChecklistModule
+INFO  08:48:59 Content root path: C:\Users\Abhi\source\repos\Audit Management System - POD1\AuditChecklistModule
+INFO  08:52:48 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  08:52:48  Http GET request calledChecklistProvider
+INFO  08:52:48 Log from ChecklistRepo
+INFO  08:54:25 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  08:54:25  Http GET request calledChecklistProvider
+INFO  08:54:25 Log from ChecklistRepo
+INFO  10:09:11 Application started. Press Ctrl+C to shut down.
+INFO  10:09:11 Application started. Press Ctrl+C to shut down.
+INFO  10:09:11 Hosting environment: Development
+INFO  10:09:11 Hosting environment: Development
+INFO  10:09:11 Content root path: C:\Users\Abhi\source\repos\Audit Management System - POD1\AuditChecklistModule
+INFO  10:09:11 Content root path: C:\Users\Abhi\source\repos\Audit Management System - POD1\AuditChecklistModule
+INFO  10:10:24 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  10:10:24  Http GET request calledChecklistProvider
+INFO  10:10:24 Log from ChecklistRepo
+INFO  10:10:32 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  10:10:32  Http GET request calledChecklistProvider
+INFO  10:10:32 Log from ChecklistRepo
+INFO  10:11:13 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  10:11:13  Http GET request calledChecklistProvider
+INFO  10:11:13 Log from ChecklistRepo
+INFO  10:11:43 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  10:11:43  Http GET request calledChecklistProvider
+INFO  10:11:43 Log from ChecklistRepo

@@ -1,0 +1,207 @@
+INFO  11:25:39 Application started. Press Ctrl+C to shut down.
+INFO  11:25:39 Application started. Press Ctrl+C to shut down.
+INFO  11:25:39 Hosting environment: Development
+INFO  11:25:39 Hosting environment: Development
+INFO  11:25:39 Content root path: C:\Users\Abhi\source\repos\AuditBenchmarkModule
+INFO  11:25:39 Content root path: C:\Users\Abhi\source\repos\AuditBenchmarkModule
+INFO  11:25:39  Http GET request AuditBenchmarkController
+INFO  11:25:39  Http GET request BenchmarkProvider
+INFO  11:25:39  Http GET request BenchmarkRepo
+INFO  04:35:36 Application started. Press Ctrl+C to shut down.
+INFO  04:35:36 Application started. Press Ctrl+C to shut down.
+INFO  04:35:36 Hosting environment: Development
+INFO  04:35:36 Hosting environment: Development
+INFO  04:35:36 Content root path: C:\Users\Abhi\source\repos\AuditBenchmarkModule
+INFO  04:35:36 Content root path: C:\Users\Abhi\source\repos\AuditBenchmarkModule
+INFO  04:35:36  Http GET request AuditBenchmarkController
+INFO  04:35:36  Http GET request BenchmarkProvider
+INFO  04:35:36  Http GET request BenchmarkRepo
+INFO  04:41:44  Http GET request AuditBenchmarkController
+INFO  04:41:44  Http GET request BenchmarkProvider
+INFO  04:41:44  Http GET request BenchmarkRepo
+INFO  05:08:45 Application started. Press Ctrl+C to shut down.
+INFO  05:08:45 Application started. Press Ctrl+C to shut down.
+INFO  05:08:45 Hosting environment: Development
+INFO  05:08:45 Hosting environment: Development
+INFO  05:08:45 Content root path: C:\Users\Abhi\source\repos\AuditBenchmarkModule
+INFO  05:08:45 Content root path: C:\Users\Abhi\source\repos\AuditBenchmarkModule
+INFO  05:08:45  Http GET request AuditBenchmarkController
+INFO  05:08:45  Http GET request BenchmarkProvider
+INFO  05:08:45  Http GET request BenchmarkRepo
+INFO  05:13:10  Http GET request AuditBenchmarkController
+INFO  05:13:10  Http GET request BenchmarkProvider
+INFO  05:13:10  Http GET request BenchmarkRepo
+INFO  05:14:22  Http GET request AuditBenchmarkController
+INFO  05:14:22  Http GET request BenchmarkProvider
+INFO  05:14:22  Http GET request BenchmarkRepo
+INFO  05:16:44  Http GET request AuditBenchmarkController
+INFO  05:16:44  Http GET request BenchmarkProvider
+INFO  05:16:44  Http GET request BenchmarkRepo
+INFO  05:17:33  Http GET request AuditBenchmarkController
+INFO  05:17:33  Http GET request BenchmarkProvider
+INFO  05:17:33  Http GET request BenchmarkRepo
+INFO  05:37:04 Application started. Press Ctrl+C to shut down.
+INFO  05:37:04 Application started. Press Ctrl+C to shut down.
+INFO  05:37:04 Hosting environment: Development
+INFO  05:37:04 Hosting environment: Development
+INFO  05:37:04 Content root path: C:\Users\Abhi\source\repos\AuditBenchmarkModule
+INFO  05:37:04 Content root path: C:\Users\Abhi\source\repos\AuditBenchmarkModule
+INFO  05:37:05  Http GET request AuditBenchmarkController
+INFO  05:37:05  Http GET request BenchmarkProvider
+INFO  05:37:05  Http GET request BenchmarkRepo
+INFO  05:42:18  Http GET request AuditBenchmarkController
+INFO  05:42:18  Http GET request BenchmarkProvider
+INFO  05:42:18  Http GET request BenchmarkRepo
+INFO  05:42:55  Http GET request AuditBenchmarkController
+INFO  05:42:55  Http GET request BenchmarkProvider
+INFO  05:42:55  Http GET request BenchmarkRepo
+INFO  05:43:30  Http GET request AuditBenchmarkController
+INFO  05:43:30  Http GET request BenchmarkProvider
+INFO  05:43:30  Http GET request BenchmarkRepo
+INFO  05:44:15  Http GET request AuditBenchmarkController
+INFO  05:44:15  Http GET request BenchmarkProvider
+INFO  05:44:15  Http GET request BenchmarkRepo
+INFO  05:45:13  Http GET request AuditBenchmarkController
+INFO  05:45:13  Http GET request BenchmarkProvider
+INFO  05:45:13  Http GET request BenchmarkRepo
+INFO  05:55:21  Http GET request AuditBenchmarkController
+INFO  05:55:21  Http GET request BenchmarkProvider
+INFO  05:55:21  Http GET request BenchmarkRepo
+INFO  05:55:54  Http GET request AuditBenchmarkController
+INFO  05:55:54  Http GET request BenchmarkProvider
+INFO  05:55:54  Http GET request BenchmarkRepo
+INFO  05:56:17  Http GET request AuditBenchmarkController
+INFO  05:56:17  Http GET request BenchmarkProvider
+INFO  05:56:17  Http GET request BenchmarkRepo
+INFO  05:57:27  Http GET request AuditBenchmarkController
+INFO  05:57:27  Http GET request BenchmarkProvider
+INFO  05:57:27  Http GET request BenchmarkRepo
+INFO  05:58:05  Http GET request AuditBenchmarkController
+INFO  05:58:05  Http GET request BenchmarkProvider
+INFO  05:58:05  Http GET request BenchmarkRepo
+INFO  05:58:50  Http GET request AuditBenchmarkController
+INFO  05:58:50  Http GET request BenchmarkProvider
+INFO  05:58:50  Http GET request BenchmarkRepo
+INFO  05:59:31  Http GET request AuditBenchmarkController
+INFO  05:59:31  Http GET request BenchmarkProvider
+INFO  05:59:31  Http GET request BenchmarkRepo
+INFO  06:00:06  Http GET request AuditBenchmarkController
+INFO  06:00:06  Http GET request BenchmarkProvider
+INFO  06:00:06  Http GET request BenchmarkRepo
+INFO  06:00:44  Http GET request AuditBenchmarkController
+INFO  06:00:44  Http GET request BenchmarkProvider
+INFO  06:00:44  Http GET request BenchmarkRepo
+INFO  06:01:09  Http GET request AuditBenchmarkController
+INFO  06:01:09  Http GET request BenchmarkProvider
+INFO  06:01:09  Http GET request BenchmarkRepo
+INFO  06:01:36  Http GET request AuditBenchmarkController
+INFO  06:01:36  Http GET request BenchmarkProvider
+INFO  06:01:36  Http GET request BenchmarkRepo
+INFO  06:07:18  Http GET request AuditBenchmarkController
+INFO  06:07:18  Http GET request BenchmarkProvider
+INFO  06:07:18  Http GET request BenchmarkRepo
+INFO  06:07:55  Http GET request AuditBenchmarkController
+INFO  06:07:55  Http GET request BenchmarkProvider
+INFO  06:07:55  Http GET request BenchmarkRepo
+INFO  06:08:53  Http GET request AuditBenchmarkController
+INFO  06:08:53  Http GET request BenchmarkProvider
+INFO  06:08:53  Http GET request BenchmarkRepo
+INFO  06:09:30  Http GET request AuditBenchmarkController
+INFO  06:09:30  Http GET request BenchmarkProvider
+INFO  06:09:30  Http GET request BenchmarkRepo
+INFO  06:27:00 Application started. Press Ctrl+C to shut down.
+INFO  06:27:00 Application started. Press Ctrl+C to shut down.
+INFO  06:27:00 Hosting environment: Development
+INFO  06:27:00 Hosting environment: Development
+INFO  06:27:00 Content root path: C:\Users\Abhi\source\repos\AuditBenchmarkModule
+INFO  06:27:00 Content root path: C:\Users\Abhi\source\repos\AuditBenchmarkModule
+INFO  06:27:00  Http GET request AuditBenchmarkController
+INFO  06:27:00  Http GET request BenchmarkProvider
+INFO  06:27:00  Http GET request BenchmarkRepo
+INFO  06:40:40  Http GET request AuditBenchmarkController
+INFO  06:40:40  Http GET request BenchmarkProvider
+INFO  06:40:40  Http GET request BenchmarkRepo
+INFO  06:41:14  Http GET request AuditBenchmarkController
+INFO  06:41:14  Http GET request BenchmarkProvider
+INFO  06:41:14  Http GET request BenchmarkRepo
+INFO  06:49:17  Http GET request AuditBenchmarkController
+INFO  06:49:17  Http GET request BenchmarkProvider
+INFO  06:49:17  Http GET request BenchmarkRepo
+INFO  06:54:06  Http GET request AuditBenchmarkController
+INFO  06:54:06  Http GET request BenchmarkProvider
+INFO  06:54:06  Http GET request BenchmarkRepo
+INFO  07:00:04  Http GET request AuditBenchmarkController
+INFO  07:00:04  Http GET request BenchmarkProvider
+INFO  07:00:04  Http GET request BenchmarkRepo
+INFO  08:23:00 Application started. Press Ctrl+C to shut down.
+INFO  08:23:00 Application started. Press Ctrl+C to shut down.
+INFO  08:23:00 Hosting environment: Development
+INFO  08:23:00 Hosting environment: Development
+INFO  08:23:00 Content root path: C:\Users\Abhi\source\repos\AuditBenchmarkModule
+INFO  08:23:00 Content root path: C:\Users\Abhi\source\repos\AuditBenchmarkModule
+INFO  08:23:01  Http GET request AuditBenchmarkController
+INFO  08:23:01  Http GET request BenchmarkProvider
+INFO  08:23:01  Http GET request BenchmarkRepo
+INFO  08:23:45 Application started. Press Ctrl+C to shut down.
+INFO  08:23:45 Application started. Press Ctrl+C to shut down.
+INFO  08:23:45 Hosting environment: Development
+INFO  08:23:45 Hosting environment: Development
+INFO  08:23:45 Content root path: C:\Users\Abhi\source\repos\AuditBenchmarkModule
+INFO  08:23:45 Content root path: C:\Users\Abhi\source\repos\AuditBenchmarkModule
+INFO  08:23:45  Http GET request AuditBenchmarkController
+INFO  08:23:45  Http GET request BenchmarkProvider
+INFO  08:23:45  Http GET request BenchmarkRepo
+INFO  10:47:34 Application started. Press Ctrl+C to shut down.
+INFO  10:47:34 Application started. Press Ctrl+C to shut down.
+INFO  10:47:34 Hosting environment: Development
+INFO  10:47:34 Hosting environment: Development
+INFO  10:47:34 Content root path: C:\Users\Abhi\source\repos\AuditBenchmarkModule
+INFO  10:47:34 Content root path: C:\Users\Abhi\source\repos\AuditBenchmarkModule
+INFO  10:47:34  Http GET request AuditBenchmarkController
+INFO  10:47:34  Http GET request BenchmarkProvider
+INFO  10:47:34  Http GET request BenchmarkRepo
+INFO  10:50:51  Http GET request AuditBenchmarkController
+INFO  10:50:51  Http GET request BenchmarkProvider
+INFO  10:50:51  Http GET request BenchmarkRepo
+INFO  10:51:30  Http GET request AuditBenchmarkController
+INFO  10:51:30  Http GET request BenchmarkProvider
+INFO  10:51:30  Http GET request BenchmarkRepo
+INFO  08:48:04 Application started. Press Ctrl+C to shut down.
+INFO  08:48:05 Application started. Press Ctrl+C to shut down.
+INFO  08:48:05 Hosting environment: Development
+INFO  08:48:05 Hosting environment: Development
+INFO  08:48:05 Content root path: C:\Users\Abhi\source\repos\Audit Management System - POD1\AuditBenchmarkModule
+INFO  08:48:05 Content root path: C:\Users\Abhi\source\repos\Audit Management System - POD1\AuditBenchmarkModule
+INFO  08:48:05  Http GET request AuditBenchmarkController
+INFO  08:48:05  Http GET request BenchmarkProvider
+INFO  08:48:05  Http GET request BenchmarkRepo
+INFO  08:50:27 Application started. Press Ctrl+C to shut down.
+INFO  08:50:27 Application started. Press Ctrl+C to shut down.
+INFO  08:50:27 Hosting environment: Development
+INFO  08:50:27 Hosting environment: Development
+INFO  08:50:27 Content root path: C:\Users\Abhi\source\repos\Audit Management System - POD1\AuditBenchmarkModule
+INFO  08:50:27 Content root path: C:\Users\Abhi\source\repos\Audit Management System - POD1\AuditBenchmarkModule
+INFO  08:50:27  Http GET request AuditBenchmarkController
+INFO  08:50:27  Http GET request BenchmarkProvider
+INFO  08:50:27  Http GET request BenchmarkRepo
+INFO  08:54:44  Http GET request AuditBenchmarkController
+INFO  08:54:44  Http GET request BenchmarkProvider
+INFO  08:54:44  Http GET request BenchmarkRepo
+INFO  10:08:34 Application started. Press Ctrl+C to shut down.
+INFO  10:08:34 Application started. Press Ctrl+C to shut down.
+INFO  10:08:34 Hosting environment: Development
+INFO  10:08:34 Hosting environment: Development
+INFO  10:08:34 Content root path: C:\Users\Abhi\source\repos\Audit Management System - POD1\AuditBenchmarkModule
+INFO  10:08:34 Content root path: C:\Users\Abhi\source\repos\Audit Management System - POD1\AuditBenchmarkModule
+INFO  10:08:34  Http GET request AuditBenchmarkController
+INFO  10:08:34  Http GET request BenchmarkProvider
+INFO  10:08:34  Http GET request BenchmarkRepo
+INFO  10:11:02  Http GET request AuditBenchmarkController
+INFO  10:11:02  Http GET request BenchmarkProvider
+INFO  10:11:02  Http GET request BenchmarkRepo
+INFO  10:11:27  Http GET request AuditBenchmarkController
+INFO  10:11:27  Http GET request BenchmarkProvider
+INFO  10:11:27  Http GET request BenchmarkRepo
+INFO  10:12:03  Http GET request AuditBenchmarkController
+INFO  10:12:03  Http GET request BenchmarkProvider
+INFO  10:12:03  Http GET request BenchmarkRepo
