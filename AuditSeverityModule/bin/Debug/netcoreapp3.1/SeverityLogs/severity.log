@@ -162,3 +162,32 @@ INFO  10:11:27  Response Method of SeverityRepo Called
 INFO  10:12:03  Http POST Request From: AuditSeverityController
 INFO  10:12:03  SeverityResponse Method of SeverityProvider Called 
 INFO  10:12:03  Response Method of SeverityRepo Called 
+INFO  10:39:42 Application started. Press Ctrl+C to shut down.
+INFO  10:39:42 Application started. Press Ctrl+C to shut down.
+INFO  10:39:42 Hosting environment: Development
+INFO  10:39:42 Hosting environment: Development
+INFO  10:39:42 Content root path: C:\Users\Abhi\source\repos\Audit Management System - POD1\AuditSeverityModule
+INFO  10:39:42 Content root path: C:\Users\Abhi\source\repos\Audit Management System - POD1\AuditSeverityModule
+INFO  10:39:42  Http GET Request From: AuditSeverityController
+INFO  10:41:31  Http POST Request From: AuditSeverityController
+INFO  10:41:31  SeverityResponse Method of SeverityProvider Called 
+INFO  10:41:31  Response Method of SeverityRepo Called 
+INFO  10:42:03  Http POST Request From: AuditSeverityController
+INFO  10:42:03  SeverityResponse Method of SeverityProvider Called 
+INFO  10:42:03  Response Method of SeverityRepo Called 
+INFO  10:59:24 Application started. Press Ctrl+C to shut down.
+INFO  10:59:24 Application started. Press Ctrl+C to shut down.
+INFO  10:59:24 Hosting environment: Development
+INFO  10:59:24 Hosting environment: Development
+INFO  10:59:24 Content root path: C:\Users\Abhi\source\repos\Audit Management System - POD1\AuditSeverityModule
+INFO  10:59:24 Content root path: C:\Users\Abhi\source\repos\Audit Management System - POD1\AuditSeverityModule
+INFO  10:59:24  Http GET Request From: AuditSeverityController
+INFO  11:03:15  Http POST Request From: AuditSeverityController
+INFO  11:03:15  SeverityResponse Method of SeverityProvider Called 
+INFO  11:03:15  Response Method of SeverityRepo Called 
+INFO  11:06:02  Http POST Request From: AuditSeverityController
+INFO  11:06:02  SeverityResponse Method of SeverityProvider Called 
+INFO  11:06:02  Response Method of SeverityRepo Called 
+INFO  11:17:12  Http POST Request From: AuditSeverityController
+INFO  11:17:12  SeverityResponse Method of SeverityProvider Called 
+INFO  11:17:12  Response Method of SeverityRepo Called 

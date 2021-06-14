@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuditBenchmarkModule", "AuditBenchmarkModule.csproj", "{24397C68-C5F9-420F-A393-AC1DDF9DC452}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuditBenchmarkTesting", "..\AuditBenchmarkTesting\AuditBenchmarkTesting.csproj", "{AB7BB37D-1B0F-48AD-A8A7-449AAFA686BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{24397C68-C5F9-420F-A393-AC1DDF9DC452}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24397C68-C5F9-420F-A393-AC1DDF9DC452}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24397C68-C5F9-420F-A393-AC1DDF9DC452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB7BB37D-1B0F-48AD-A8A7-449AAFA686BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7BB37D-1B0F-48AD-A8A7-449AAFA686BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7BB37D-1B0F-48AD-A8A7-449AAFA686BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7BB37D-1B0F-48AD-A8A7-449AAFA686BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

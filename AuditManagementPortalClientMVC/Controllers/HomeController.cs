@@ -116,31 +116,40 @@ namespace AuditManagementPortalClientMVC.Controllers
                 return RedirectToAction("Login", "Home");
             }
             catch (Exception ex) 
-            { }
-            return RedirectToAction("Login", "Home");
+            {
+                return RedirectToAction("Login", "Home");
+            }
+            
         }
 
         [HttpPost]
         public IActionResult Checklist(string audittype) 
         {
-            if (audittype == "Internal") 
+            try
             {
+                if (audittype == "Internal")
+                {
 
-                List<CQuestions> listOfQuestions = new List<CQuestions>();
-                listOfQuestions = _checklistProvider.ProvideChecklist("Internal");
-                HttpContext.Session.SetString("audittype", audittype);
-                return View(listOfQuestions);
+                    List<CQuestions> listOfQuestions = new List<CQuestions>();
+                    listOfQuestions = _checklistProvider.ProvideChecklist("Internal");
+                    HttpContext.Session.SetString("audittype", audittype);
+                    return View(listOfQuestions);
+                }
+                if (audittype == "SOX")
+                {
+
+                    List<CQuestions> listOfQuestions = new List<CQuestions>();
+                    listOfQuestions = _checklistProvider.ProvideChecklist("SOX");
+                    HttpContext.Session.SetString("audittype", audittype);
+                    return View(listOfQuestions);
+                }
+
+                return RedirectToAction("AuditType", "Home");
             }
-            if (audittype == "SOX") 
+            catch(Exception _exception)
             {
-             
-                List<CQuestions> listOfQuestions = new List<CQuestions>();
-                listOfQuestions = _checklistProvider.ProvideChecklist("SOX");
-                HttpContext.Session.SetString("audittype", audittype);
-                return View(listOfQuestions);
+                return RedirectToAction("Login", "Home");
             }
-           
-            return RedirectToAction("AuditType", "Home");
         }
         
         [HttpGet]
@@ -152,8 +161,10 @@ namespace AuditManagementPortalClientMVC.Controllers
                 return RedirectToAction("Login", "Home");
             }
             catch (Exception ex)
-            { }
-            return RedirectToAction("Login", "Home");
+            {
+                return RedirectToAction("Login", "Home");
+            }
+            
         }
 
        [HttpPost]

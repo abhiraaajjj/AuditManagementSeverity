@@ -189,3 +189,36 @@ INFO  10:11:13 Log from ChecklistRepo
 INFO  10:11:43 AuditChecklistController Http GET request calledAuditChecklistController
 INFO  10:11:43  Http GET request calledChecklistProvider
 INFO  10:11:43 Log from ChecklistRepo
+INFO  10:39:24 Application started. Press Ctrl+C to shut down.
+INFO  10:39:24 Application started. Press Ctrl+C to shut down.
+INFO  10:39:24 Hosting environment: Development
+INFO  10:39:24 Hosting environment: Development
+INFO  10:39:24 Content root path: C:\Users\Abhi\source\repos\Audit Management System - POD1\AuditChecklistModule
+INFO  10:39:24 Content root path: C:\Users\Abhi\source\repos\Audit Management System - POD1\AuditChecklistModule
+INFO  10:41:01 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  10:41:01  Http GET request calledChecklistProvider
+INFO  10:41:01 Log from ChecklistRepo
+INFO  10:41:46 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  10:41:46  Http GET request calledChecklistProvider
+INFO  10:41:46 Log from ChecklistRepo
+INFO  10:58:11 Application started. Press Ctrl+C to shut down.
+INFO  10:58:11 Application started. Press Ctrl+C to shut down.
+INFO  10:58:11 Hosting environment: Development
+INFO  10:58:11 Hosting environment: Development
+INFO  10:58:11 Content root path: C:\Users\Abhi\source\repos\Audit Management System - POD1\AuditChecklistModule
+INFO  10:58:11 Content root path: C:\Users\Abhi\source\repos\Audit Management System - POD1\AuditChecklistModule
+INFO  11:02:56 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  11:02:56  Http GET request calledChecklistProvider
+INFO  11:02:56 Log from ChecklistRepo
+INFO  11:03:31 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  11:03:31  Http GET request calledChecklistProvider
+INFO  11:03:31 Log from ChecklistRepo
+INFO  11:05:46 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  11:05:46  Http GET request calledChecklistProvider
+INFO  11:05:46 Log from ChecklistRepo
+INFO  11:06:09 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  11:06:09  Http GET request calledChecklistProvider
+INFO  11:06:09 Log from ChecklistRepo
+INFO  11:16:54 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  11:16:54  Http GET request calledChecklistProvider
+INFO  11:16:54 Log from ChecklistRepo
