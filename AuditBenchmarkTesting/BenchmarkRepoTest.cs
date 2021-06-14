@@ -60,7 +60,7 @@ namespace AuditBenchmarkTesting
             mock.Setup(p => p.GetNoNumber()).Returns(l2);
             BenchmarkRepo cp = new BenchmarkRepo();
             List<AuditBenchmark> result = cp.GetNoNumber();
-            Assert.AreNotEqual(l1.Count, result.Count);
+            Assert.AreNotEqual(l2.Count, result.Count);
         }
 
         

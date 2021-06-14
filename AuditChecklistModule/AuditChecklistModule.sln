@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuditChecklistModule", "AuditChecklistModule.csproj", "{55E4A30E-D9CD-4676-8634-0C7F752E7BE3}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuditChecklistTesting", "..\AuditChecklistTesting\AuditChecklistTesting.csproj", "{5D777190-6376-424E-9C10-C99828A92382}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{55E4A30E-D9CD-4676-8634-0C7F752E7BE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55E4A30E-D9CD-4676-8634-0C7F752E7BE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55E4A30E-D9CD-4676-8634-0C7F752E7BE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D777190-6376-424E-9C10-C99828A92382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D777190-6376-424E-9C10-C99828A92382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D777190-6376-424E-9C10-C99828A92382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D777190-6376-424E-9C10-C99828A92382}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

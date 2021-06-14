@@ -222,3 +222,24 @@ INFO  11:06:09 Log from ChecklistRepo
 INFO  11:16:54 AuditChecklistController Http GET request calledAuditChecklistController
 INFO  11:16:54  Http GET request calledChecklistProvider
 INFO  11:16:54 Log from ChecklistRepo
+INFO  03:11:09 Application started. Press Ctrl+C to shut down.
+INFO  03:11:09 Application started. Press Ctrl+C to shut down.
+INFO  03:11:10 Hosting environment: Development
+INFO  03:11:10 Hosting environment: Development
+INFO  03:11:10 Content root path: C:\Users\Abhi\source\repos\Audit Management System - POD1\AuditChecklistModule
+INFO  03:11:10 Content root path: C:\Users\Abhi\source\repos\Audit Management System - POD1\AuditChecklistModule
+INFO  03:25:27 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  03:25:27  Http GET request calledChecklistProvider
+INFO  03:25:27 Log from ChecklistRepo
+INFO  03:26:05 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  03:26:05  Http GET request calledChecklistProvider
+INFO  03:26:05 Log from ChecklistRepo
+INFO  05:11:50 Application started. Press Ctrl+C to shut down.
+INFO  05:11:50 Application started. Press Ctrl+C to shut down.
+INFO  05:11:50 Hosting environment: Development
+INFO  05:11:50 Hosting environment: Development
+INFO  05:11:50 Content root path: C:\Users\Abhi\source\repos\Audit Management System - POD1\AuditChecklistModule
+INFO  05:11:50 Content root path: C:\Users\Abhi\source\repos\Audit Management System - POD1\AuditChecklistModule
+INFO  05:13:07 AuditChecklistController Http GET request calledAuditChecklistController
+INFO  05:13:07  Http GET request calledChecklistProvider
+INFO  05:13:07 Log from ChecklistRepo
