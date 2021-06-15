@@ -211,3 +211,29 @@ INFO  05:12:09  Http GET Request From: AuditSeverityController
 INFO  05:13:33  Http POST Request From: AuditSeverityController
 INFO  05:13:33  SeverityResponse Method of SeverityProvider Called 
 INFO  05:13:33  Response Method of SeverityRepo Called 
+INFO  08:47:38 Application started. Press Ctrl+C to shut down.
+INFO  08:47:38 Application started. Press Ctrl+C to shut down.
+INFO  08:47:38 Hosting environment: Development
+INFO  08:47:38 Hosting environment: Development
+INFO  08:47:38 Content root path: C:\Users\Abhi\source\repos\Audit Management System - POD1\AuditSeverityModule
+INFO  08:47:38 Content root path: C:\Users\Abhi\source\repos\Audit Management System - POD1\AuditSeverityModule
+INFO  08:47:38  Http GET Request From: AuditSeverityController
+INFO  08:49:51  Http POST Request From: AuditSeverityController
+INFO  08:49:51  SeverityResponse Method of SeverityProvider Called 
+INFO  08:49:51  Response Method of SeverityRepo Called 
+INFO  09:36:09 Application started. Press Ctrl+C to shut down.
+INFO  09:36:09 Application started. Press Ctrl+C to shut down.
+INFO  09:36:09 Hosting environment: Development
+INFO  09:36:09 Hosting environment: Development
+INFO  09:36:09 Content root path: C:\Users\Abhi\source\repos\Audit Management System - POD1\AuditSeverityModule
+INFO  09:36:09 Content root path: C:\Users\Abhi\source\repos\Audit Management System - POD1\AuditSeverityModule
+INFO  09:36:09  Http GET Request From: AuditSeverityController
+INFO  09:38:59  Http POST Request From: AuditSeverityController
+INFO  09:38:59  SeverityResponse Method of SeverityProvider Called 
+INFO  09:38:59  Response Method of SeverityRepo Called 
+INFO  09:41:19  Http POST Request From: AuditSeverityController
+INFO  09:41:19  SeverityResponse Method of SeverityProvider Called 
+INFO  09:41:19  Response Method of SeverityRepo Called 
+INFO  09:45:07  Http POST Request From: AuditSeverityController
+INFO  09:45:07  SeverityResponse Method of SeverityProvider Called 
+INFO  09:45:07  Response Method of SeverityRepo Called 

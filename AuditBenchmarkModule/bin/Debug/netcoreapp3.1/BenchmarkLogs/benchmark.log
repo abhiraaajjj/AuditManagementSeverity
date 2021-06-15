@@ -280,3 +280,33 @@ INFO  05:10:50  Http GET request BenchmarkRepo
 INFO  05:13:33  Http GET request AuditBenchmarkController
 INFO  05:13:33  Http GET request BenchmarkProvider
 INFO  05:13:33  Http GET request BenchmarkRepo
+INFO  08:45:26 Application started. Press Ctrl+C to shut down.
+INFO  08:45:26 Application started. Press Ctrl+C to shut down.
+INFO  08:45:26 Hosting environment: Development
+INFO  08:45:26 Hosting environment: Development
+INFO  08:45:26 Content root path: C:\Users\Abhi\source\repos\Audit Management System - POD1\AuditBenchmarkModule
+INFO  08:45:26 Content root path: C:\Users\Abhi\source\repos\Audit Management System - POD1\AuditBenchmarkModule
+INFO  08:45:26  Http GET request AuditBenchmarkController
+INFO  08:45:26  Http GET request BenchmarkProvider
+INFO  08:45:26  Http GET request BenchmarkRepo
+INFO  08:49:52  Http GET request AuditBenchmarkController
+INFO  08:49:52  Http GET request BenchmarkProvider
+INFO  08:49:52  Http GET request BenchmarkRepo
+INFO  09:33:15 Application started. Press Ctrl+C to shut down.
+INFO  09:33:15 Application started. Press Ctrl+C to shut down.
+INFO  09:33:15 Hosting environment: Development
+INFO  09:33:15 Hosting environment: Development
+INFO  09:33:15 Content root path: C:\Users\Abhi\source\repos\Audit Management System - POD1\AuditBenchmarkModule
+INFO  09:33:15 Content root path: C:\Users\Abhi\source\repos\Audit Management System - POD1\AuditBenchmarkModule
+INFO  09:33:15  Http GET request AuditBenchmarkController
+INFO  09:33:15  Http GET request BenchmarkProvider
+INFO  09:33:15  Http GET request BenchmarkRepo
+INFO  09:38:59  Http GET request AuditBenchmarkController
+INFO  09:38:59  Http GET request BenchmarkProvider
+INFO  09:38:59  Http GET request BenchmarkRepo
+INFO  09:41:19  Http GET request AuditBenchmarkController
+INFO  09:41:19  Http GET request BenchmarkProvider
+INFO  09:41:19  Http GET request BenchmarkRepo
+INFO  09:45:07  Http GET request AuditBenchmarkController
+INFO  09:45:07  Http GET request BenchmarkProvider
+INFO  09:45:07  Http GET request BenchmarkRepo

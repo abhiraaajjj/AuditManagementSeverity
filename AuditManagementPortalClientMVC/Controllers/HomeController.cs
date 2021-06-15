@@ -100,7 +100,7 @@ namespace AuditManagementPortalClientMVC.Controllers
             catch (Exception e)
             {
                 HttpContext.Session.Clear();
-                return RedirectToAction("Login", "Home");
+                return RedirectToAction("SignOut", "Home");
             }
             ViewBag.User = HttpContext.Session.GetString("uid");
             
@@ -117,7 +117,8 @@ namespace AuditManagementPortalClientMVC.Controllers
             }
             catch (Exception ex) 
             {
-                return RedirectToAction("Login", "Home");
+                HttpContext.Session.Clear();
+                return RedirectToAction("SignOut", "Home");
             }
             
         }
@@ -148,7 +149,8 @@ namespace AuditManagementPortalClientMVC.Controllers
             }
             catch(Exception _exception)
             {
-                return RedirectToAction("Login", "Home");
+                HttpContext.Session.Clear();
+                return RedirectToAction("SignOut", "Home");
             }
         }
         
@@ -162,7 +164,8 @@ namespace AuditManagementPortalClientMVC.Controllers
             }
             catch (Exception ex)
             {
-                return RedirectToAction("Login", "Home");
+                HttpContext.Session.Clear();
+                return RedirectToAction("SignOut", "Home");
             }
             
         }
@@ -208,7 +211,8 @@ namespace AuditManagementPortalClientMVC.Controllers
             }
             catch (Exception e) 
             {
-                return RedirectToAction("Login", "Home");
+                HttpContext.Session.Clear();
+                return RedirectToAction("SignOut", "Home");
             }
             
 
