@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abhi\\source\\repos\\Audit Management System - POD1\\AuditBenchmarkModule\\AuditBenchmarkModule.csproj": {}
+    "C:\\Users\\Abhi\\source\\repos\\AuditManagementSystem\\NewRepositoryPOD1\\AuditBenchmarkModule\\AuditBenchmarkModule.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abhi\\source\\repos\\Audit Management System - POD1\\AuditBenchmarkModule\\AuditBenchmarkModule.csproj": {
+    "C:\\Users\\Abhi\\source\\repos\\AuditManagementSystem\\NewRepositoryPOD1\\AuditBenchmarkModule\\AuditBenchmarkModule.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abhi\\source\\repos\\Audit Management System - POD1\\AuditBenchmarkModule\\AuditBenchmarkModule.csproj",
+        "projectUniqueName": "C:\\Users\\Abhi\\source\\repos\\AuditManagementSystem\\NewRepositoryPOD1\\AuditBenchmarkModule\\AuditBenchmarkModule.csproj",
         "projectName": "AuditBenchmarkModule",
-        "projectPath": "C:\\Users\\Abhi\\source\\repos\\Audit Management System - POD1\\AuditBenchmarkModule\\AuditBenchmarkModule.csproj",
+        "projectPath": "C:\\Users\\Abhi\\source\\repos\\AuditManagementSystem\\NewRepositoryPOD1\\AuditBenchmarkModule\\AuditBenchmarkModule.csproj",
         "packagesPath": "C:\\Users\\Abhi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abhi\\source\\repos\\Audit Management System - POD1\\AuditBenchmarkModule\\obj\\",
+        "outputPath": "C:\\Users\\Abhi\\source\\repos\\AuditManagementSystem\\NewRepositoryPOD1\\AuditBenchmarkModule\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Abhi\\AppData\\Roaming\\NuGet\\NuGet.Config",

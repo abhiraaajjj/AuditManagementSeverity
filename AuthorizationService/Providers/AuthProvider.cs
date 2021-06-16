@@ -16,9 +16,17 @@ namespace AuthorizationService.Providers
         }
         public string GetJsonWebToken()
         {
-            _log4net.Info(" GetJsonWebToken method of AuthProvider Called ");
-            string token = _authRepo.GenerateJWT();
-            return token;
+            try
+            {
+                _log4net.Info(" GetJsonWebToken method of AuthProvider Called ");
+                string token = _authRepo.GenerateJWT();
+                return token;
+            }
+            catch(Exception _exception)
+            {
+                _log4net.Error("Exception " + _exception.Message);
+                return (_exception.Message);
+            }
         }
     }
 }

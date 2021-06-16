@@ -6161,11 +6161,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abhi\\source\\repos\\Audit Management System - POD1\\AuthorizationServiceTesting\\NUnitTestAuthorizationService.csproj",
+      "projectUniqueName": "C:\\Users\\Abhi\\source\\repos\\AuditManagementSystem\\NewRepositoryPOD1\\AuthorizationServiceTesting\\NUnitTestAuthorizationService.csproj",
       "projectName": "NUnitTestAuthorizationService",
-      "projectPath": "C:\\Users\\Abhi\\source\\repos\\Audit Management System - POD1\\AuthorizationServiceTesting\\NUnitTestAuthorizationService.csproj",
+      "projectPath": "C:\\Users\\Abhi\\source\\repos\\AuditManagementSystem\\NewRepositoryPOD1\\AuthorizationServiceTesting\\NUnitTestAuthorizationService.csproj",
       "packagesPath": "C:\\Users\\Abhi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abhi\\source\\repos\\Audit Management System - POD1\\AuthorizationServiceTesting\\obj\\",
+      "outputPath": "C:\\Users\\Abhi\\source\\repos\\AuditManagementSystem\\NewRepositoryPOD1\\AuthorizationServiceTesting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Abhi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6182,8 +6182,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Abhi\\source\\repos\\Audit Management System - POD1\\AuthorizationService\\AuthorizationService.csproj": {
-              "projectPath": "C:\\Users\\Abhi\\source\\repos\\Audit Management System - POD1\\AuthorizationService\\AuthorizationService.csproj"
+            "C:\\Users\\Abhi\\source\\repos\\AuditManagementSystem\\NewRepositoryPOD1\\AuthorizationService\\AuthorizationService.csproj": {
+              "projectPath": "C:\\Users\\Abhi\\source\\repos\\AuditManagementSystem\\NewRepositoryPOD1\\AuthorizationService\\AuthorizationService.csproj"
             }
           }
         }

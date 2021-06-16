@@ -17,9 +17,17 @@ namespace AuditManagementPortalClientMVC.Providers
         }
         public List<CQuestions> ProvideChecklist(string audittype)
         {
-            List<CQuestions> questionList = new List<CQuestions>();
-            questionList = _checklistRepo.ProvideChecklist(audittype);
-            return questionList;
+            try
+            {
+                List<CQuestions> questionList = new List<CQuestions>();
+                questionList = _checklistRepo.ProvideChecklist(audittype);
+                return questionList;
+
+            }
+            catch(Exception _exception)
+            {
+                return null;
+            }
             //throw new NotImplementedException();
         }
     }

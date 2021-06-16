@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abhi\\source\\repos\\Audit Management System - POD1\\AuthorizationService\\AuthorizationService.csproj": {}
+    "C:\\Users\\Abhi\\source\\repos\\AuditManagementSystem\\NewRepositoryPOD1\\AuthorizationService\\AuthorizationService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abhi\\source\\repos\\Audit Management System - POD1\\AuthorizationService\\AuthorizationService.csproj": {
+    "C:\\Users\\Abhi\\source\\repos\\AuditManagementSystem\\NewRepositoryPOD1\\AuthorizationService\\AuthorizationService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abhi\\source\\repos\\Audit Management System - POD1\\AuthorizationService\\AuthorizationService.csproj",
+        "projectUniqueName": "C:\\Users\\Abhi\\source\\repos\\AuditManagementSystem\\NewRepositoryPOD1\\AuthorizationService\\AuthorizationService.csproj",
         "projectName": "AuthorizationService",
-        "projectPath": "C:\\Users\\Abhi\\source\\repos\\Audit Management System - POD1\\AuthorizationService\\AuthorizationService.csproj",
+        "projectPath": "C:\\Users\\Abhi\\source\\repos\\AuditManagementSystem\\NewRepositoryPOD1\\AuthorizationService\\AuthorizationService.csproj",
         "packagesPath": "C:\\Users\\Abhi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abhi\\source\\repos\\Audit Management System - POD1\\AuthorizationService\\obj\\",
+        "outputPath": "C:\\Users\\Abhi\\source\\repos\\AuditManagementSystem\\NewRepositoryPOD1\\AuthorizationService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Abhi\\AppData\\Roaming\\NuGet\\NuGet.Config",

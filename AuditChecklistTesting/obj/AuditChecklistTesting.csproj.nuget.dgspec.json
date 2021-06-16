@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abhi\\source\\repos\\Audit Management System - POD1\\AuditChecklistTesting\\AuditChecklistTesting.csproj": {}
+    "C:\\Users\\Abhi\\source\\repos\\AuditManagementSystem\\NewRepositoryPOD1\\AuditChecklistTesting\\AuditChecklistTesting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abhi\\source\\repos\\Audit Management System - POD1\\AuditChecklistModule\\AuditChecklistModule.csproj": {
+    "C:\\Users\\Abhi\\source\\repos\\AuditManagementSystem\\NewRepositoryPOD1\\AuditChecklistModule\\AuditChecklistModule.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abhi\\source\\repos\\Audit Management System - POD1\\AuditChecklistModule\\AuditChecklistModule.csproj",
+        "projectUniqueName": "C:\\Users\\Abhi\\source\\repos\\AuditManagementSystem\\NewRepositoryPOD1\\AuditChecklistModule\\AuditChecklistModule.csproj",
         "projectName": "AuditChecklistModule",
-        "projectPath": "C:\\Users\\Abhi\\source\\repos\\Audit Management System - POD1\\AuditChecklistModule\\AuditChecklistModule.csproj",
+        "projectPath": "C:\\Users\\Abhi\\source\\repos\\AuditManagementSystem\\NewRepositoryPOD1\\AuditChecklistModule\\AuditChecklistModule.csproj",
         "packagesPath": "C:\\Users\\Abhi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abhi\\source\\repos\\Audit Management System - POD1\\AuditChecklistModule\\obj\\",
+        "outputPath": "C:\\Users\\Abhi\\source\\repos\\AuditManagementSystem\\NewRepositoryPOD1\\AuditChecklistModule\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Abhi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -95,14 +95,14 @@
         }
       }
     },
-    "C:\\Users\\Abhi\\source\\repos\\Audit Management System - POD1\\AuditChecklistTesting\\AuditChecklistTesting.csproj": {
+    "C:\\Users\\Abhi\\source\\repos\\AuditManagementSystem\\NewRepositoryPOD1\\AuditChecklistTesting\\AuditChecklistTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abhi\\source\\repos\\Audit Management System - POD1\\AuditChecklistTesting\\AuditChecklistTesting.csproj",
+        "projectUniqueName": "C:\\Users\\Abhi\\source\\repos\\AuditManagementSystem\\NewRepositoryPOD1\\AuditChecklistTesting\\AuditChecklistTesting.csproj",
         "projectName": "AuditChecklistTesting",
-        "projectPath": "C:\\Users\\Abhi\\source\\repos\\Audit Management System - POD1\\AuditChecklistTesting\\AuditChecklistTesting.csproj",
+        "projectPath": "C:\\Users\\Abhi\\source\\repos\\AuditManagementSystem\\NewRepositoryPOD1\\AuditChecklistTesting\\AuditChecklistTesting.csproj",
         "packagesPath": "C:\\Users\\Abhi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abhi\\source\\repos\\Audit Management System - POD1\\AuditChecklistTesting\\obj\\",
+        "outputPath": "C:\\Users\\Abhi\\source\\repos\\AuditManagementSystem\\NewRepositoryPOD1\\AuditChecklistTesting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Abhi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -119,8 +119,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Abhi\\source\\repos\\Audit Management System - POD1\\AuditChecklistModule\\AuditChecklistModule.csproj": {
-                "projectPath": "C:\\Users\\Abhi\\source\\repos\\Audit Management System - POD1\\AuditChecklistModule\\AuditChecklistModule.csproj"
+              "C:\\Users\\Abhi\\source\\repos\\AuditManagementSystem\\NewRepositoryPOD1\\AuditChecklistModule\\AuditChecklistModule.csproj": {
+                "projectPath": "C:\\Users\\Abhi\\source\\repos\\AuditManagementSystem\\NewRepositoryPOD1\\AuditChecklistModule\\AuditChecklistModule.csproj"
               }
             }
           }

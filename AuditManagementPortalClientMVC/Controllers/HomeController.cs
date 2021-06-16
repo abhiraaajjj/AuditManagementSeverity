@@ -128,6 +128,10 @@ namespace AuditManagementPortalClientMVC.Controllers
         {
             try
             {
+                if(audittype == null)
+                {
+                    throw new Exception();
+                }
                 if (audittype == "Internal")
                 {
 

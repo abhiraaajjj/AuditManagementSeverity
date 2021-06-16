@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HDoLFUI1uzfWzFYSMYG70+bMVuG9fOVxGwaZvNs9OHc+frXRwX/9Ae3vwpa0yeYuKelelIDpFMNWrM4IzQrUWQ==",
+  "dgSpecHash": "41onOwz/KR92LyyP/DKgLbBHpSTH96kzy70cP7Fz/EWXNfEqaJyULRSjKOA4Z+fnAl2c8hlkKExwzgDUF8pZXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Abhi\\source\\repos\\Audit Management System - POD1\\AuditManagementPortalClientMVC\\AuditManagementPortalClientMVC.csproj",
+  "projectFilePath": "C:\\Users\\Abhi\\source\\repos\\AuditManagementSystem\\NewRepositoryPOD1\\AuditManagementPortalClientMVC\\AuditManagementPortalClientMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Abhi\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.9\\microsoft.aspnetcore.mvc.razor.extensions.3.1.9.nupkg.sha512",
     "C:\\Users\\Abhi\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\3.1.9\\microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.9.nupkg.sha512",

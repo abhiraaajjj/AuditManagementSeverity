@@ -13,26 +13,33 @@ namespace AuditManagementPortalClientMVC.Repository
     {
         public List<CQuestions> ProvideChecklist(string audittype)
         {
-
-            HttpClient client = new HttpClient();
-            var json = JsonConvert.SerializeObject(audittype);
-            var request = new HttpRequestMessage
+            try
             {
-                Method = HttpMethod.Get,
-                RequestUri = new Uri("https://localhost:44310/api/AuditChecklist"),
 
-                Content = new StringContent(json, Encoding.UTF8, "application/json")
-            };
-            List<CQuestions> listOfQuestions = new List<CQuestions>();
-            var response = client.SendAsync(request).ConfigureAwait(false);
+                HttpClient client = new HttpClient();
+                var json = JsonConvert.SerializeObject(audittype);
+                var request = new HttpRequestMessage
+                {
+                    Method = HttpMethod.Get,
+                    RequestUri = new Uri("https://localhost:44310/api/AuditChecklist"),
 
-            var responseInfo = response.GetAwaiter().GetResult();
-            if (responseInfo.IsSuccessStatusCode)
-            {
-                var questions = responseInfo.Content.ReadAsStringAsync().Result;
-                listOfQuestions = JsonConvert.DeserializeObject<List<CQuestions>>(questions);
+                    Content = new StringContent(json, Encoding.UTF8, "application/json")
+                };
+                List<CQuestions> listOfQuestions = new List<CQuestions>();
+                var response = client.SendAsync(request).ConfigureAwait(false);
+
+                var responseInfo = response.GetAwaiter().GetResult();
+                if (responseInfo.IsSuccessStatusCode)
+                {
+                    var questions = responseInfo.Content.ReadAsStringAsync().Result;
+                    listOfQuestions = JsonConvert.DeserializeObject<List<CQuestions>>(questions);
+                }
+                return listOfQuestions;
             }
-            return listOfQuestions;
+            catch(Exception _exception)
+            {
+                return null;
+            }
             //throw new NotImplementedException();
         }
     }

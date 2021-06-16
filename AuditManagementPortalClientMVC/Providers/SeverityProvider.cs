@@ -17,9 +17,16 @@ namespace AuditManagementPortalClientMVC.Providers
         }
         public AuditResponse GetResponse(AuditRequest auditRequest)
         {
-            AuditResponse auditResponse = new AuditResponse();
-            auditResponse = _severityRepo.GetResponse(auditRequest);
-            return auditResponse;
+            try
+            {
+                AuditResponse auditResponse = new AuditResponse();
+                auditResponse = _severityRepo.GetResponse(auditRequest);
+                return auditResponse;
+            }
+            catch(Exception _exception)
+            {
+                return null;
+            }
             //throw new NotImplementedException();
         }
         public void StoreResponse(StoreAuditResponse auditResponse)

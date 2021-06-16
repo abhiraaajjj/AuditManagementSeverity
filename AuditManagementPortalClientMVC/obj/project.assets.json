@@ -5791,11 +5791,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abhi\\source\\repos\\Audit Management System - POD1\\AuditManagementPortalClientMVC\\AuditManagementPortalClientMVC.csproj",
+      "projectUniqueName": "C:\\Users\\Abhi\\source\\repos\\AuditManagementSystem\\NewRepositoryPOD1\\AuditManagementPortalClientMVC\\AuditManagementPortalClientMVC.csproj",
       "projectName": "AuditManagementPortalClientMVC",
-      "projectPath": "C:\\Users\\Abhi\\source\\repos\\Audit Management System - POD1\\AuditManagementPortalClientMVC\\AuditManagementPortalClientMVC.csproj",
+      "projectPath": "C:\\Users\\Abhi\\source\\repos\\AuditManagementSystem\\NewRepositoryPOD1\\AuditManagementPortalClientMVC\\AuditManagementPortalClientMVC.csproj",
       "packagesPath": "C:\\Users\\Abhi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abhi\\source\\repos\\Audit Management System - POD1\\AuditManagementPortalClientMVC\\obj\\",
+      "outputPath": "C:\\Users\\Abhi\\source\\repos\\AuditManagementSystem\\NewRepositoryPOD1\\AuditManagementPortalClientMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Abhi\\AppData\\Roaming\\NuGet\\NuGet.Config",

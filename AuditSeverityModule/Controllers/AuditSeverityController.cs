@@ -36,7 +36,7 @@ namespace AuditSeverityModule.Controllers
             _log4net.Info(" Http POST Request From: " + nameof(AuditSeverityController));
 
             if (req == null)
-                return BadRequest();
+                return BadRequest("Enter Audit Type");
 
             if (req.Auditdetails.Type != "Internal" && req.Auditdetails.Type != "SOX")
                 return BadRequest("Wrong Audit Type");
@@ -49,7 +49,7 @@ namespace AuditSeverityModule.Controllers
             catch (Exception e)
             {
                 _log4net.Error(e.Message);  
-                return StatusCode(500);
+                return StatusCode(500, e.Message +" "+ nameof(AuditSeverityController));
             }
 
         }

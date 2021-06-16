@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MPyzXL9dAmqY28LLKIQW6cboD+crA1z1EyfQY5IBX0wbsHw7LRfCGYvXTCRA9jZdEoIkFYIEiguRW11+AEgS0g==",
+  "dgSpecHash": "QZnZrsCqFJN3K29MD4zypIsZzN+ZfeaptXM1dtqPe17RR9wHEbAOZzUQB6Ot4OQVQzrMmbX6y4fJW5LGqMf4iw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Abhi\\source\\repos\\Audit Management System - POD1\\AuditSeverityModule\\AuditSeverityModule.csproj",
+  "projectFilePath": "C:\\Users\\Abhi\\source\\repos\\AuditManagementSystem\\NewRepositoryPOD1\\AuditSeverityModule\\AuditSeverityModule.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Abhi\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Abhi\\.nuget\\packages\\log4net\\2.0.11\\log4net.2.0.11.nupkg.sha512",

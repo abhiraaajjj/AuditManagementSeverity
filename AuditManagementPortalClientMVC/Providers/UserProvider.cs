@@ -17,15 +17,22 @@ namespace AuditManagementPortalClientMVC.Providers
         }
         public bool CheckUser(User user)
         {
-            List<User> users = _userRepo.GetUsers();
-            foreach(User usr in users) 
+            try
             {
-                if (user.Name == usr.Name && user.Password == usr.Password) 
+                List<User> users = _userRepo.GetUsers();
+                foreach (User usr in users)
                 {
-                    return true;
+                    if (user.Name == usr.Name && user.Password == usr.Password)
+                    {
+                        return true;
+                    }
                 }
+                return false;
             }
-            return false;
+            catch(Exception _exception)
+            {
+                return false;
+            }
         }
     }
 }

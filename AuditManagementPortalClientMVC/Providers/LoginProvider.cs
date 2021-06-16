@@ -16,8 +16,15 @@ namespace AuditManagementPortalClientMVC.Providers
         }
         public string GetToken()
         {
-            string tkn = _loginRepo.GetToken().Result;
-            return tkn;
+            try
+            {
+                string tkn = _loginRepo.GetToken().Result;
+                return tkn;
+            }
+            catch(Exception _exception)
+            {
+                return (_exception.Message);
+            }
             //throw new NotImplementedException();
         }
     }

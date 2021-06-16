@@ -10,24 +10,31 @@ namespace AuditManagementPortalClientMVC.Repository
     {
         public async Task<string> GetToken()
         {
-            string tkn = "";
-            using (var httpClient = new HttpClient())
+            try
             {
-
-                using (var response = await httpClient.GetAsync("https://localhost:44396/api/token"))
+                string tkn = "";
+                using (var httpClient = new HttpClient())
                 {
-                    string token = await response.Content.ReadAsStringAsync();
-                    //TempData["token"] = token;
-                    tkn = token;
-                    //ViewBag.Token = token;
-                    // var t = TempData["token"].ToString();//1
+
+                    using (var response = await httpClient.GetAsync("https://localhost:44396/api/token"))
+                    {
+                        string token = await response.Content.ReadAsStringAsync();
+                        //TempData["token"] = token;
+                        tkn = token;
+                        //ViewBag.Token = token;
+                        // var t = TempData["token"].ToString();//1
+
+                    }
+
 
                 }
 
-
+                return tkn;
             }
-
-            return tkn;
+            catch(Exception _exception)
+            {
+                return _exception.Message;
+            }
             //throw new NotImplementedException();
         }
     }

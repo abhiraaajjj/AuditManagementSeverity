@@ -313,3 +313,72 @@ INFO  02:35:20  GenerateJWT method of AuthRepo Called
 INFO  02:35:47  Http GET Request From: TokenController
 INFO  02:35:47  GetJsonWebToken method of AuthProvider Called 
 INFO  02:35:47  GenerateJWT method of AuthRepo Called 
+INFO  09:00:03 Application started. Press Ctrl+C to shut down.
+INFO  09:00:03 Application started. Press Ctrl+C to shut down.
+INFO  09:00:03 Hosting environment: Development
+INFO  09:00:03 Hosting environment: Development
+INFO  09:00:03 Content root path: C:\Users\Abhi\source\repos\AuditManagementSystem\NewRepositoryPOD1\AuthorizationService
+INFO  09:00:03 Content root path: C:\Users\Abhi\source\repos\AuditManagementSystem\NewRepositoryPOD1\AuthorizationService
+INFO  09:00:04  Http GET Request From: TokenController
+INFO  09:00:04  GetJsonWebToken method of AuthProvider Called 
+INFO  09:00:04  GenerateJWT method of AuthRepo Called 
+INFO  09:02:12  Http GET Request From: TokenController
+INFO  09:02:12  GetJsonWebToken method of AuthProvider Called 
+INFO  09:02:12  GenerateJWT method of AuthRepo Called 
+INFO  09:05:00 Application started. Press Ctrl+C to shut down.
+INFO  09:05:00 Application started. Press Ctrl+C to shut down.
+INFO  09:05:00 Hosting environment: Development
+INFO  09:05:00 Hosting environment: Development
+INFO  09:05:00 Content root path: C:\Users\Abhi\source\repos\AuditManagementSystem\NewRepositoryPOD1\AuthorizationService
+INFO  09:05:00 Content root path: C:\Users\Abhi\source\repos\AuditManagementSystem\NewRepositoryPOD1\AuthorizationService
+INFO  09:05:00  Http GET Request From: TokenController
+INFO  09:05:00  GetJsonWebToken method of AuthProvider Called 
+INFO  09:05:00  GenerateJWT method of AuthRepo Called 
+INFO  09:06:17  Http GET Request From: TokenController
+INFO  09:06:17  GetJsonWebToken method of AuthProvider Called 
+INFO  09:06:17  GenerateJWT method of AuthRepo Called 
+INFO  10:05:17 Application started. Press Ctrl+C to shut down.
+INFO  10:05:17 Application started. Press Ctrl+C to shut down.
+INFO  10:05:17 Hosting environment: Development
+INFO  10:05:17 Hosting environment: Development
+INFO  10:05:17 Content root path: C:\Users\Abhi\source\repos\AuditManagementSystem\NewRepositoryPOD1\AuthorizationService
+INFO  10:05:17 Content root path: C:\Users\Abhi\source\repos\AuditManagementSystem\NewRepositoryPOD1\AuthorizationService
+INFO  10:05:18  Http GET Request From: TokenController
+INFO  10:05:18  GetJsonWebToken method of AuthProvider Called 
+INFO  10:05:18  GenerateJWT method of AuthRepo Called 
+INFO  10:10:27 Application started. Press Ctrl+C to shut down.
+INFO  10:10:27 Application started. Press Ctrl+C to shut down.
+INFO  10:10:27 Hosting environment: Development
+INFO  10:10:27 Hosting environment: Development
+INFO  10:10:27 Content root path: C:\Users\Abhi\source\repos\AuditManagementSystem\NewRepositoryPOD1\AuthorizationService
+INFO  10:10:27 Content root path: C:\Users\Abhi\source\repos\AuditManagementSystem\NewRepositoryPOD1\AuthorizationService
+INFO  10:10:28  Http GET Request From: TokenController
+INFO  10:10:28  GetJsonWebToken method of AuthProvider Called 
+INFO  10:10:28  GenerateJWT method of AuthRepo Called 
+INFO  10:13:01  Http GET Request From: TokenController
+INFO  10:13:01  GetJsonWebToken method of AuthProvider Called 
+INFO  10:13:01  GenerateJWT method of AuthRepo Called 
+INFO  11:17:18 Application started. Press Ctrl+C to shut down.
+INFO  11:17:18 Application started. Press Ctrl+C to shut down.
+INFO  11:17:18 Hosting environment: Development
+INFO  11:17:18 Hosting environment: Development
+INFO  11:17:18 Content root path: C:\Users\Abhi\source\repos\AuditManagementSystem\NewRepositoryPOD1\AuthorizationService
+INFO  11:17:18 Content root path: C:\Users\Abhi\source\repos\AuditManagementSystem\NewRepositoryPOD1\AuthorizationService
+INFO  11:17:18  Http GET Request From: TokenController
+INFO  11:17:18  GetJsonWebToken method of AuthProvider Called 
+INFO  11:17:18  GenerateJWT method of AuthRepo Called 
+INFO  11:18:11  Http GET Request From: TokenController
+INFO  11:18:11  GetJsonWebToken method of AuthProvider Called 
+INFO  11:18:11  GenerateJWT method of AuthRepo Called 
+INFO  11:28:28 Application started. Press Ctrl+C to shut down.
+INFO  11:28:28 Application started. Press Ctrl+C to shut down.
+INFO  11:28:28 Hosting environment: Development
+INFO  11:28:28 Hosting environment: Development
+INFO  11:28:28 Content root path: C:\Users\Abhi\source\repos\AuditManagementSystem\NewRepositoryPOD1\AuthorizationService
+INFO  11:28:28 Content root path: C:\Users\Abhi\source\repos\AuditManagementSystem\NewRepositoryPOD1\AuthorizationService
+INFO  11:28:28  Http GET Request From: TokenController
+INFO  11:28:28  GetJsonWebToken method of AuthProvider Called 
+INFO  11:28:28  GenerateJWT method of AuthRepo Called 
+INFO  11:29:23  Http GET Request From: TokenController
+INFO  11:29:23  GetJsonWebToken method of AuthProvider Called 
+INFO  11:29:23  GenerateJWT method of AuthRepo Called 

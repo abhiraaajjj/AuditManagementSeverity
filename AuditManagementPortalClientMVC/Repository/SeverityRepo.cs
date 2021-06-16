@@ -20,20 +20,28 @@ namespace AuditManagementPortalClientMVC.Repository
         }
         public AuditResponse GetResponse(AuditRequest auditRequest)
         {
-            AuditResponse auditResponse = new AuditResponse();
-            using (var httpClient = new HttpClient())
+
+            try
             {
-                StringContent content = new StringContent(JsonConvert.SerializeObject(auditRequest), Encoding.UTF8, "application/json");
-
-                HttpResponseMessage response = httpClient.PostAsync("https://localhost:44303/api/AuditSeverity", content).Result;
-                if (response.IsSuccessStatusCode)
+                AuditResponse auditResponse = new AuditResponse();
+                using (var httpClient = new HttpClient())
                 {
-                    string result = response.Content.ReadAsStringAsync().Result;
-                    auditResponse = JsonConvert.DeserializeObject<AuditResponse>(result);
-                }
+                    StringContent content = new StringContent(JsonConvert.SerializeObject(auditRequest), Encoding.UTF8, "application/json");
 
+                    HttpResponseMessage response = httpClient.PostAsync("https://localhost:44303/api/AuditSeverity", content).Result;
+                    if (response.IsSuccessStatusCode)
+                    {
+                        string result = response.Content.ReadAsStringAsync().Result;
+                        auditResponse = JsonConvert.DeserializeObject<AuditResponse>(result);
+                    }
+
+                }
+                return auditResponse;
             }
-            return auditResponse;
+            catch(Exception _exception)
+            {
+                return null;
+            }
             //throw new NotImplementedException();
         }
 

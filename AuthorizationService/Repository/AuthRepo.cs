@@ -19,17 +19,25 @@ namespace AuthorizationService.Repository
         }
         public string GenerateJWT()
         {
-            _log4net.Info(" GenerateJWT method of AuthRepo Called ");
-            var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["Jwt:Key"]));
-            var credentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256);
+            try
+            {
+                _log4net.Info(" GenerateJWT method of AuthRepo Called ");
+                var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["Jwt:Key"]));
+                var credentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256);
 
-            var token = new JwtSecurityToken(_config["Jwt:Issuer"],
-              _config["Jwt:Issuer"],
-              null,
-              expires: DateTime.Now.AddMinutes(30),
-              signingCredentials: credentials);
+                var token = new JwtSecurityToken(_config["Jwt:Issuer"],
+                  _config["Jwt:Issuer"],
+                  null,
+                  expires: DateTime.Now.AddMinutes(30),
+                  signingCredentials: credentials);
 
-            return new JwtSecurityTokenHandler().WriteToken(token);
+                return new JwtSecurityTokenHandler().WriteToken(token);
+            }
+            catch(Exception _exception)
+            {
+                _log4net.Error("Exception " + _exception.Message);
+                return (_exception.Message);
+            }
         }
     }
 }

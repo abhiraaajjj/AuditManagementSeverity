@@ -35,7 +35,7 @@ namespace AuditBenchmarkModule.Controllers
             catch (Exception e)
             {
                 _log4net.Error(" Exception here" + e.Message + " " + nameof(AuditBenchmarkController));
-                return StatusCode(500);
+                return StatusCode(500,e.Message + " " + nameof(AuditBenchmarkController));
             }
         }
     }

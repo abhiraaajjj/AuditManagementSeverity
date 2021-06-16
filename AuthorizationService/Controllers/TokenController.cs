@@ -28,13 +28,21 @@ namespace AuthorizationService.Controllers
         {
             _log4net.Info(" Http GET Request From: " + nameof(TokenController));
             string token = _authProvider.GetJsonWebToken();
-            if (token == null)
+            try
             {
-                return BadRequest(token);
+                if (token == null)
+                {
+                    return BadRequest(token);
+                }
+                else
+                {
+                    return Ok(token);
+                }
             }
-            else
+            catch (Exception _exception)
             {
-                return Ok(token);
+                _log4net.Error("Exception " + _exception.Message + nameof(TokenController));
+                return StatusCode(500, _exception.Message + " " + nameof(TokenController));
             }
             
         }

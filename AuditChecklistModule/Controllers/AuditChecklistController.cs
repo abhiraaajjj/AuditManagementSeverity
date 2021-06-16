@@ -41,7 +41,7 @@ namespace AuditChecklistModule.Controllers
             catch (Exception _exception)
             {
                 _log4net.Error("Exception " + _exception.Message + nameof(AuditChecklistController));
-                return StatusCode(500);
+                return StatusCode(500, _exception.Message +" "+ nameof(AuditChecklistController));
             }
         }
     }

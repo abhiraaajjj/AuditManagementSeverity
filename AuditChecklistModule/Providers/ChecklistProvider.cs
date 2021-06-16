@@ -16,14 +16,21 @@ namespace AuditChecklistModule.Providers
             checklistRepoObj = _checklistRepoObj;
             _log4net = log4net.LogManager.GetLogger(typeof(ChecklistProvider));
         }
-        List<Questions> listOfQuestions = new List<Questions>();
-
         public List<Questions> QuestionsProvider(string auditType)
         {
-
-            _log4net.Info(" Http GET request called" + nameof(ChecklistProvider));
-            listOfQuestions = checklistRepoObj.GetQuestions(auditType);
-            return listOfQuestions;
+            try
+            {
+                List<Questions> listOfQuestions = new List<Questions>();
+                _log4net.Info(" Http GET request called" + nameof(ChecklistProvider));
+                listOfQuestions = checklistRepoObj.GetQuestions(auditType);
+                return listOfQuestions;
+            }
+            catch (Exception _exception)
+            {
+                _log4net.Error("Exception " + _exception.Message + nameof(ChecklistProvider));
+                return null;
+            }
+            
 
 
 

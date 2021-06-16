@@ -237,3 +237,54 @@ INFO  09:41:19  Response Method of SeverityRepo Called
 INFO  09:45:07  Http POST Request From: AuditSeverityController
 INFO  09:45:07  SeverityResponse Method of SeverityProvider Called 
 INFO  09:45:07  Response Method of SeverityRepo Called 
+INFO  08:58:46 Now listening on: https://localhost:5001
+INFO  08:58:46 Now listening on: https://localhost:5001
+INFO  08:58:46 Now listening on: http://localhost:5000
+INFO  08:58:46 Now listening on: http://localhost:5000
+INFO  08:58:46 Application started. Press Ctrl+C to shut down.
+INFO  08:58:46 Application started. Press Ctrl+C to shut down.
+INFO  08:58:46 Hosting environment: Development
+INFO  08:58:46 Hosting environment: Development
+INFO  08:58:46 Content root path: C:\Users\Abhi\source\repos\AuditManagementSystem\NewRepositoryPOD1\AuditSeverityModule
+INFO  08:58:46 Content root path: C:\Users\Abhi\source\repos\AuditManagementSystem\NewRepositoryPOD1\AuditSeverityModule
+INFO  08:58:48  Http GET Request From: AuditSeverityController
+INFO  09:04:40 Application started. Press Ctrl+C to shut down.
+INFO  09:04:40 Application started. Press Ctrl+C to shut down.
+INFO  09:04:40 Hosting environment: Development
+INFO  09:04:40 Hosting environment: Development
+INFO  09:04:40 Content root path: C:\Users\Abhi\source\repos\AuditManagementSystem\NewRepositoryPOD1\AuditSeverityModule
+INFO  09:04:40 Content root path: C:\Users\Abhi\source\repos\AuditManagementSystem\NewRepositoryPOD1\AuditSeverityModule
+INFO  09:04:40  Http GET Request From: AuditSeverityController
+INFO  09:06:40  Http POST Request From: AuditSeverityController
+INFO  09:06:40  SeverityResponse Method of SeverityProvider Called 
+INFO  09:06:40  Response Method of SeverityRepo Called 
+INFO  10:10:04 Application started. Press Ctrl+C to shut down.
+INFO  10:10:04 Application started. Press Ctrl+C to shut down.
+INFO  10:10:04 Hosting environment: Development
+INFO  10:10:04 Hosting environment: Development
+INFO  10:10:04 Content root path: C:\Users\Abhi\source\repos\AuditManagementSystem\NewRepositoryPOD1\AuditSeverityModule
+INFO  10:10:04 Content root path: C:\Users\Abhi\source\repos\AuditManagementSystem\NewRepositoryPOD1\AuditSeverityModule
+INFO  10:10:05  Http GET Request From: AuditSeverityController
+INFO  10:13:34  Http POST Request From: AuditSeverityController
+INFO  10:13:34  SeverityResponse Method of SeverityProvider Called 
+INFO  10:13:34  Response Method of SeverityRepo Called 
+INFO  11:16:31 Application started. Press Ctrl+C to shut down.
+INFO  11:16:31 Application started. Press Ctrl+C to shut down.
+INFO  11:16:31 Hosting environment: Development
+INFO  11:16:31 Hosting environment: Development
+INFO  11:16:31 Content root path: C:\Users\Abhi\source\repos\AuditManagementSystem\NewRepositoryPOD1\AuditSeverityModule
+INFO  11:16:31 Content root path: C:\Users\Abhi\source\repos\AuditManagementSystem\NewRepositoryPOD1\AuditSeverityModule
+INFO  11:16:31  Http GET Request From: AuditSeverityController
+INFO  11:18:37  Http POST Request From: AuditSeverityController
+INFO  11:18:37  SeverityResponse Method of SeverityProvider Called 
+INFO  11:18:37  Response Method of SeverityRepo Called 
+INFO  11:28:12 Application started. Press Ctrl+C to shut down.
+INFO  11:28:12 Application started. Press Ctrl+C to shut down.
+INFO  11:28:12 Hosting environment: Development
+INFO  11:28:12 Hosting environment: Development
+INFO  11:28:12 Content root path: C:\Users\Abhi\source\repos\AuditManagementSystem\NewRepositoryPOD1\AuditSeverityModule
+INFO  11:28:12 Content root path: C:\Users\Abhi\source\repos\AuditManagementSystem\NewRepositoryPOD1\AuditSeverityModule
+INFO  11:28:12  Http GET Request From: AuditSeverityController
+INFO  11:29:51  Http POST Request From: AuditSeverityController
+INFO  11:29:51  SeverityResponse Method of SeverityProvider Called 
+INFO  11:29:51  Response Method of SeverityRepo Called 
